@@ -1,0 +1,63 @@
+*{
+    box-sizing: border-box;
+   
+}
+
+.basliq{
+border:2px;
+background:#376bff;
+height:50px;
+position:relative;
+top:-8px;
+left:-8px;
+font-size:14px;
+text-indent:50px;
+font-family:apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol";
+padding-top:9px;
+color: #fff;
+word-spacing: 10px;
+
+}
+.icon{
+ 
+  position: relative;
+  float:left;
+  padding-left:900px;
+  bottom:11px;
+ 
+}
+.ikinci{
+text-indent:90px;
+border-radius:0px;
+
+}
+.secim:hover .punkt{
+  display:block;
+
+}
+.punkt{
+  display: none;
+  position: absolute;
+  background-color: #f9f9f9;
+ 
+}
+
+.secim2:hover .punkt2{
+display:block;
+
+}
+.punkt2{
+display:none;
+background-color:#f9f9f9;
+
+}
+.fon{
+ padding:500px;
+height:60px;
+background-image: url("http://storage.googleapis.com/themevessel-products/fort/img/banner/banner-2.jpg");
+}
+.soz{
+color:#fff;
+
+
+}
